@@ -1,1 +1,1 @@
-web: gunicorn igemapi.wsgi --log-file -
+web: gunicorn igemapi.wsgi
